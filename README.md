@@ -1,6 +1,6 @@
 👋 Tjabba!
 
-I'm Anders, a passionate dude who loves keeping teams agile and focused around a common goal. When I'm not faciltiating valuable sessions, you'll find me deep in a rabbit hole of some optimization or on the dance floor, perfecting my smooth salsa moves.
+I'm an AWS-focused solution architect who enjoys building things that actually solve real problems. I like keeping teams aligned, work practical and complexity to a minimum.
 
 Reach out if you want to collaborate on something or simply discuss why emacs *truly is* superior than vim! 💻
 
